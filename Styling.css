@@ -1,0 +1,134 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: url("workspace.jpg");
+    background-repeat: no-repeat;
+    width: 1500px;
+}
+
+.a {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 800px;
+    border-style: solid;
+    margin-right: 150px;
+    background-color: rgb(55, 216, 245);
+    backface-visibility: visible;
+    color: blue;
+    opacity: 0.5;
+}
+
+.b {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-style: none;
+    opacity: 0.7;
+    color: black;
+    background-color: whitesmoke;
+    margin-right: 120px;
+}
+
+div p {
+    font-size: 30px;
+    font-style: normal;
+}
+
+.c {
+    display: inline;
+    font-size: 30px;
+}
+
+img {
+    border-style: double;
+}
+
+a:hover {
+    opacity: 0.5;
+    cursor: progress;
+}
+
+div.d {
+    border: solid;
+    border-color: pink;
+    margin-right: 120px;
+}
+
+.am {
+    background-color: skyblue;
+}
+
+#id1 {
+    background-color: powderblue;
+    font-size: 30px;
+}
+
+.e {
+    border: dashed;
+    border-color: royalblue;
+    margin-right: 120px;
+}
+
+hr {
+    margin-right: 120px;
+}
+
+#id2 {
+    background-color: deeppink;
+    font-size: 30px;
+}
+
+.f {
+    border-style: groove;
+    border-color: red;
+    margin-right: 120px;
+}
+
+#id3 {
+    text-decoration: underline;
+    color: blue;
+}
+
+table,
+th,
+td {
+    border-spacing: 3px;
+    padding: 5px;
+}
+
+#id4 {
+    font-size: 30px;
+    background-color: lightcoral;
+}
+
+.g {
+    border-style: solid;
+    border-color: magenta;
+    margin-right: 120px;
+}
+
+#id5 {
+    font-size: 30px;
+    background-color: rgb(243, 111, 35);
+}
+
+.h {
+    border-style: solid;
+    border-color: chartreuse;
+    margin-right: 120px;
+}
+
+#id6 {
+    font-size: 30px;
+    background-color: yellow;
+}
+
+.i {
+    border-style: solid;
+    border-color: purple;
+    margin-right: 120px;
+    font-size: 20px;
+}
